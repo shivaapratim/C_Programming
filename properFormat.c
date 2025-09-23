@@ -19,7 +19,7 @@
 // Return type is int (integer) because it returns 0 or 1 at the end
 // 0 = program executed successfully
 // 1 = program ended with an error
-int main(void)
+int main()
 {
     // Code block of main begins here { }
     // Convention: Indent all code inside this block by 4 spaces

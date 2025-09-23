@@ -1,10 +1,10 @@
-# Pattern Printing Programs in C
+# C Programming
 
-A collection of simple C programs to demonstrate various pattern printing techniques for students learning programming fundamentals.
+A collection of simple C programs to demonstrate various patterns, techniques and methods to learn and approach problems.
 
 ## About This Repository
 
-This repository contains basic pattern printing programs written in C. Each program demonstrates different loop structures and conditional logic concepts that are fundamental to programming.
+This repository contains basic problems written in C. Each program demonstrates different structures and conditional logic concepts that are fundamental to programming.
 
 **Special Thanks to Coding Blocks** for providing excellent learning materials and guidance for students. These programs are inspired by their comprehensive programming courses.
 
@@ -19,27 +19,17 @@ patterns/
 ├── pattern1.c    # Full Matrix Pattern
 ├── pattern2.c    # Lower Triangle Pattern
 ├── pattern3.c    # Upper Triangle Pattern
-├── pattern30.c   # Descending Numbers Matrix
-├── pattern31.c   # Diagonal Numbers Pattern
-└── README.md     # This file
+├── pattern4.c   # Descending Numbers Matrix
+├── pattern5.c   # Diagonal Numbers Pattern
+|__ etc..
 ```
-
-## Pattern Preview
-
-Each program contains a visual representation of the pattern in comments at the top of the file. Here's what you'll find:
-
-- **Pattern 1**: Complete 5×5 matrix of stars
-- **Pattern 2**: Lower triangular pattern
-- **Pattern 3**: Upper triangular pattern
-- **Pattern 30**: Descending number sequences
-- **Pattern 31**: Diagonal number pattern with stars
 
 ## How to Use
 
 ### Step 1: Download or Clone
 
 ```bash
-git clone <https://github.com/shivaapratim/BCA_FirstSem>
+git clone <https://github.com/shivaapratim/C_Programming>
 cd patterns
 ```
 
@@ -88,7 +78,7 @@ Each program is:
 - **Self-contained**: No external dependencies
 - **Well-commented**: Clear pattern diagrams at the top
 - **Simple**: Uses only basic C concepts
-- **Educational**: Perfect for learning loop logic
+- **Educational**: Perfect for learning logic
 
 ## Questions or Issues?
 

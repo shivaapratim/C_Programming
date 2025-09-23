@@ -1,6 +1,6 @@
 #include <stdio.h> // Standard I/O library
 
-int main(void)
+int main()
 {
     int age;
     int hasID;

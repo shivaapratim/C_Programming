@@ -1,5 +1,5 @@
 /*
-Pattern 30: Descending Numbers Matrix
+Pattern 4: Descending Numbers Matrix
 n = 5
 
 5 4 3 2 1
@@ -15,7 +15,7 @@ int main()
 {
     int n = 5;
 
-    printf("Pattern 30:\n");
+    printf("Pattern 4:\n");
     printf("n = %d\n\n", n);
 
     for (int i = 0; i < n; i++)

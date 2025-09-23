@@ -1,14 +1,12 @@
 /*
-Pattern 5: Diagonal Numbers Pattern
+Pattern 6: Diagonal star Pattern
 n = 5
 
-5 4 3 2 *
-5 4 3 * 1
-5 4 * 2 1
-5 * 3 2 1
-* 4 3 2 1
-
-
+*
+ *
+  *
+   *
+    *
 */
 
 #include <stdio.h>
@@ -17,20 +15,20 @@ int main()
 {
     int n = 5;
 
-    printf("Pattern 5:\n");
+    printf("Pattern 6:\n");
     printf("n = %d\n\n", n);
 
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
         {
-            if (i + j >= n - 1)
+            if (i == j)
             {
-                printf("%d ", n - j);
+                printf("X");
             }
             else
             {
-                printf("* ");
+                printf(" ");
             }
         }
         printf("\n");
