@@ -1,13 +1,10 @@
-/*
-Pattern 14:
-n = 4
+// Inverted Triangle pattern
 
-* * * * * *
- * * * * *
-  * * *
-    *
-
-*/
+// XXXXXXXXX
+//  XXXXXXX
+//   XXXXX
+//    XXX
+//     X
 
 #include <stdio.h>
 

@@ -1,5 +1,5 @@
 /*
-Pattern 11: Lower Triangle Pattern revised
+Pattern 11:  Right angle Triangle Pattern revised
 n = 5
 
 *

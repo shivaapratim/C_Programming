@@ -1,5 +1,5 @@
 /*
-Pattern 10: Upper Triangle Pattern
+Pattern 10: Inverted Triangle Pattern
 n = 5
 
 

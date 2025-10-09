@@ -1,5 +1,5 @@
 /*
-Pattern 12: Triangle
+Pattern 12: Pyramid
 n = 4
 
      *

@@ -1,3 +1,5 @@
+// Diamond pattern
+
 //       *
 //     * * *
 //   * * * * *
