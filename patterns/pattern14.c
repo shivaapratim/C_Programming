@@ -1,4 +1,4 @@
-// Inverted Triangle pattern
+// Inverted Pyramid pattern
 
 // XXXXXXXXX
 //  XXXXXXX
