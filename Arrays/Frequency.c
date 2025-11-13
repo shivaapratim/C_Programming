@@ -12,7 +12,7 @@ int main()
     for (int i = 0; i < n; i++)
         scanf("%d", &arr[i]);
 
-        int numberToFind;
+    int numberToFind;
     printf("Enter the number to find : \n");
     scanf("%d", &numberToFind);
 
